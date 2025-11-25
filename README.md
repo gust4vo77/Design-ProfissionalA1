@@ -1,1 +1,1 @@
-# Design-ProfissionalA1
+Este repositório reúne conteúdos e projetos das disciplinas fundamentais para a formação em Design Profissional de Sistemas e Aplicações. O objetivo é integrar teoria e prática em três áreas principais: Front-End, Algoritmos e Banco de Dados, Todos Os Objetivos possiveis do checklist estão aqui.
